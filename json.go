@@ -6,7 +6,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/leaderwolfpipi/doris/internal/json"
+	"github.com/leaderwolfpipi/render/internal/json"
 )
 
 // 返回普通的json格式
